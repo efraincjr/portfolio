@@ -1,0 +1,29 @@
+nav {
+    text-align: right;
+}
+
+li {
+
+    display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+header {
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    background-color: darkcyan;
+   
+}
+
+#second-row {
+text-align: right;
+
+padding-top: 0 50px;
+}
